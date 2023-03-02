@@ -7,3 +7,9 @@
 | cedula | 1044617440 |
 | edad | 17 años |
 | correo | luisdavidcortezano@gmail.com |
+
+## estudios 
+
+| Datos | Descripcion |
+| colegio | I.E.D carrizal |
+| sena | ADSO 2 |
